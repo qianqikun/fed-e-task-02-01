@@ -1,5 +1,5 @@
 {
-  "name": "generator-qqk-cli",
+  "name": "generator-qqk-vue",
   "version": "1.0.0",
   "description": "my cli",
   "main": "index.js",
@@ -10,5 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "yeoman-generator": "^4.10.1"
-  }
+  },
+  "devDependencies": {}
 }
