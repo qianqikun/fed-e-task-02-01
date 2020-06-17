@@ -24,7 +24,9 @@
 ## 编程题
 
 ### 第一题
-
+通过commander实现命令行提示，调用init命令后，通过inquirer实现命令行交互取得参数，使用fs模块读取template代码，最后使用ejs模板将参数渲染到文件中。
+- 代码在code/qqk-cli中
+### 第二题
 
 ## 项目文件说明
 - notes: 笔记
