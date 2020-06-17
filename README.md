@@ -29,7 +29,7 @@
 ### 第二题
 - 代码在code/gulp-sample
 
-发现一个问题 之前按照视频的步骤使用 gulp-useref ,node_modules中的js css 没有集成到对应的文件夹下 后来在searchPath下添加'..' 得以实现
+发现一个问题 之前按照视频的步骤使用 gulp-useref ,node_modules中的js css 没有集成到对应的文件夹下 后来在searchPath下添加'..' 得以实现，想知道有没有更好的办法
 
 ### 第三题
 - 代码在code/grunt-sample 未完成 有的插件安装完使用没有反应
