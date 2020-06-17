@@ -29,6 +29,9 @@
 ### 第二题
 - 代码在code/gulp-sample
 
+### 第三题
+- 代码在code/grunt-sample 未完成 有的插件安装完使用没有反应
+
 ## 项目文件说明
 - notes: 笔记
 - notes-code: 听课中的代码
